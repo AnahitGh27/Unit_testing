@@ -2,7 +2,7 @@
   "name": "unitestingtask",
   "version": "0.0.1",
   "description": "Unit testing task",
-
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
